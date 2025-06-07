@@ -1,0 +1,6 @@
+game_ongoing=0
+ship5_placed=1
+ship4_placed=1
+ship3_1_placed=1
+ship3_2_placed=0
+ship2_placed=0
